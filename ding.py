@@ -18,7 +18,7 @@ class DingDing:
         self._token = self.get_token()
 
         # 机器人webhook地址
-        self._webhook = ""
+        self._webhook = "https://oapi.dingtalk.com/robot/send?access_token=11432ee83dbb63fb955aa9f98f80cba325b99a90350b36e3c967484316051f37"
 
         
 
